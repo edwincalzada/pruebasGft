@@ -13,7 +13,7 @@ public class Comparacion {
 			System.out.println("valor1 es igual valor2");
 		} else {
 			System.out.println("valor1 no igual valor2");
-		}
+		    }
 	}
 
 }
