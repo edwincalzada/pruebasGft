@@ -2,7 +2,7 @@ package ejemplos;
 
 public class Comparacion {
 
-	public static void main(String[] args) {
+	    public static void main(String[] args) {
 		Integer valor1 = 1;
 		Integer valor2 = 2;
 
@@ -13,7 +13,7 @@ public class Comparacion {
 			System.out.println("valor1 es igual valor2");
 		} else {
 			System.out.println("valor1 no igual valor2");
-		    }
+		 }
 	}
 
 }
